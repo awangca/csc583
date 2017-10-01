@@ -11,3 +11,4 @@
 
 # Frontend:
 1. issues: changes made on vue is not reflecting
+2. Google SignIn: https://jsfiddle.net/phanan/a4qyysrh/
